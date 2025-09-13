@@ -16,7 +16,7 @@ int main() {
 int main() {
 	int num1, num2, num3;
 	scanf("%d %d %d", &num1, &num2, &num3);
-	printf("%dx%d+%d = %d", num1, num2, num3, num1 * num2 + num3);
+	printf("%d x %d + %d = %d", num1, num2, num3, num1 * num2 + num3);
 
 	return 0;
 }
@@ -27,7 +27,7 @@ int main() {
 int main() {
 	int n;
 	scanf("%d", &n);
-	printf("%d", n*n);
+	printf("%d", n * n);
 
 	return 0;
 }
@@ -49,7 +49,7 @@ int main() {
 int main() {
 	int num1, num2, num3;
 	scanf("%d %d %d", &num1, &num2, &num3);
-	printf("%d", (num1-num2)*(num2+num3)*(num3%num1));
+	printf("%d", (num1 - num2) * ( num2 + num3) * (num3 % num1));
 
 	return 0;
 }
