@@ -1,9 +1,8 @@
 # C-Programming-Introduction
 
 ## Reference
-열혈 C 프로그래밍  
-
-명품 C++ Programming  
+윤성우의 열혈 C 프로그래밍  
+명품 C++ 프로그래밍  
 Programming : Principles and Practice Using C++  
 Effective C++  
 Effective modern C++  
