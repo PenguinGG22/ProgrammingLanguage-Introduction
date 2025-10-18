@@ -12,5 +12,5 @@ Fluent Python
 Effective Python  
 
 ## Lecture
-기본프로그래밍 COM 2002  
-소프트웨어설계 COM 3036  
+기본프로그래밍 COM2002  
+소프트웨어설계 COM3036  
