@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void ShowArrayElme(int *param, int len){
-    for(int i = 0; i < 5; i++){
+    for(int i = 0; i < len; i++){
         printf("%d ", param[i]);
     }
 
