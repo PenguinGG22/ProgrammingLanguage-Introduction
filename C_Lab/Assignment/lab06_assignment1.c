@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-int main() {
+int main(){
     int arr[] = {7, 2, 5, 10, 4};
 
-    for(int i = 0; i < 4; i++) {
-        for(int j = i + 1; j < 5; j++) {
+    for(int i = 0; i < 4; i++){
+        for(int j = i + 1; j < 5; j++){
             if(arr[i] > arr[j]){
                 int tmp = arr[i];
                 arr[i] = arr[j];
